@@ -15,7 +15,7 @@
 ### Contacts
 <a href="www.linkedin.com/in/vinícius-saito-0580a1289" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-![Snake animation](https://github.com/saitovini/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/saitovini/blob/output/github-contribution-grid-snake.svg)
 
 
           
