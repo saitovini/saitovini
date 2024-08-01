@@ -4,7 +4,7 @@
 ### 🔭Currently I am an enthusiastic IT student at Faertej - Petrópolis, nearing the completion of my third semester. Driven by my passion for the field, I am continuously expanding my knowledge and skills through additional coursework in data and back-end development.
 ### Contacts
 <a href="www.linkedin.com/in/viniciussaito" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-#
+#www.linkedin.com/in/viniciussaito
 ## Tools and Technologies
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> 
           
